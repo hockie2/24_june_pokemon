@@ -1,0 +1,18 @@
+body {
+    font-family: 'Open Sans Condensed', sans-serif;
+    margin: 20px 50px;
+
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+}
+
+a {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+p {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
